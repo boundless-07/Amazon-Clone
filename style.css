@@ -221,7 +221,7 @@ ul a{
 } 
 
  .logo{
-border-image: url("amazon_logo.png");
+border-image: url("pics/amazon_logo.png");
 background-size: cover;
 height: 50px;
 width:100px;
