@@ -1,4 +1,3 @@
-# whoopa
 Author - Ameya Ghadi
 <br>
 This is an Amazon clone I have built with HTML and CSS.<br>
